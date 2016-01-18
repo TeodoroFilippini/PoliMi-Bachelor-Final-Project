@@ -1,5 +1,5 @@
 # Projects
-My Bachelor's thesis project: the cardboard game "Sheepland"
+My Bachelor's thesis project: the cardboard game "Sheepland". Here are the rules of the game:
 
 Sheepland: a sunny land of rolling green meadows, lush forests, and majestic mountains. The peaceful, happy people of the island want nothing more than to roam the land with their fuzzy little flocks of fluffy white sheep. All is well and good, until somebody has the bright idea to put up some fences...
 
